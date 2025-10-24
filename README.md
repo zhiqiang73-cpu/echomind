@@ -36,8 +36,8 @@ and where AI can learn from human insight even without the cloud.
 ## 💬 Join Us
 EchoMind is an island for thinkers, builders, and dreamers.
 
-📧 **Contact:** yourname@email.com  
-🌐 **Website:** https://echomind.ai  
+📧 **Contact:** zhiqiang73@gmail.com  
+🌐 **Website:** https://echomindx.com
 💬 **Community:** Coming soon
 
 ---
